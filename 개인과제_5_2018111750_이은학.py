@@ -11,3 +11,5 @@ print(f'학번: {id}')
 print(f'학과: {major}')
 print(f'학교: {Univ}')
 print(f'학년: {grade}')
+
+print('Hi hello kk')
